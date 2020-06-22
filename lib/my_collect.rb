@@ -1,7 +1,7 @@
 
 
 def my_collect(collection)
-  
+  while 
 end
 
 # iterate over the collection with a while loop
