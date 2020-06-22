@@ -1,7 +1,10 @@
 
 
 def my_collect(collection)
-  while collection
+  i = 0
+  new_collection = []
+  while i < collection.length
+    new_collection << 
 end
 
 # iterate over the collection with a while loop
